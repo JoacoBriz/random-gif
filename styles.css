@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+
+h1, .titleGif {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ffffff;
+}
+
+.giphy {
+  width: 70%;
+  margin: auto;
+  border-radius: 20px;
+  border: 5px solid #ffffff;
+}
